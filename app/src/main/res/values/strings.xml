@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">massenger</string>
+    <string name="create_new_account">create new account</string>
+    <string name="phone_number_or_email">Phone Number or Email</string>
+    <string name="name_sing_up">Name</string>
+    <string name="password_sign_up">password</string>
+    <string name="sing_up">sing up</string>
+    <string name="log_in">LOG IN</string>
+    <string name="you_will_not_be_creating_a_facebook_profile">You will not be creating a Facebook profile</string>
+    <string name="forget_password">FORGET PASSWORD</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

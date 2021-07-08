@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1070142091684",
+    "firebase_url": "https://messenger-app-beb60.firebaseio.com",
+    "project_id": "messenger-app-beb60",
+    "storage_bucket": "messenger-app-beb60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070142091684:android:1fd0bc0824e07762915131",
+        "android_client_info": {
+          "package_name": "com.mohamedreda.massenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070142091684-b4b5h8ru5vu7ar7bugrghk4fekgjm8p3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohamedreda.massenger",
+            "certificate_hash": "885f76b05430da08a44aefa84ad34662f53e2794"
+          }
+        },
+        {
+          "client_id": "1070142091684-t5apn3als53vgbn696blaqf09ercvhf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPyUqHuTcXVVtdljohAulqRFC8oX5-2U8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070142091684-t5apn3als53vgbn696blaqf09ercvhf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
